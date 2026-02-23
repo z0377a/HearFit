@@ -1,3 +1,4 @@
+HEAD
 # untitled
 
 Fitness App
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+HearFit ist ein Schülerprojekt der HTL-Donaustadt in Kooperation mit dem Institut für Sport- und Bewegungswissenschaft der Universität Wien. Es entsteht im Rahmen des von der Agentur für Bildung und Internationalisierung (OeAD) geförderten Programms Sparkling Science 2.0 – konkret im Projekt „Sinnvoll Aktiv – Bewegung für alle“. Ziel des übergeordneten Forschungsprogramms ist es, älteren Menschen mit sehbeeinträchtigung den Zugang zu Bewegung und Mobilitätserhaltung zu erleichtern. HearFit setzt dabei den Fokus auf eine barrierefreie Übungssammlung und zielgruppengerechte Beschreibung der Bewegungsübungen.  
+
+ac6563eeaa34471af44c97117f48da8d2eaf4539

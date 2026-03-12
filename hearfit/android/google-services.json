@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "111736009081",
+    "firebase_url": "https://hearfit-8fc43-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hearfit-8fc43",
+    "storage_bucket": "hearfit-8fc43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111736009081:android:c849688789d37c207e7fa8",
+        "android_client_info": {
+          "package_name": "com.example.hearfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlhTgccRR2Q9U8OWBdXfHrStXXYlawUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

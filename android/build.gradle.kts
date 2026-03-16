@@ -5,6 +5,10 @@ allprojects {
     }
 }
 
+plugins {
+    // ... andere Plugins
+    id("com.google.gms.google-services") version "4.3.15" apply false  // ← DAS FEHLT!
+}
 val newBuildDir: Directory =
     rootProject.layout.buildDirectory
         .dir("../../build")
